@@ -94,4 +94,10 @@ print("API availability:", round(api_rate, 2))
 ## 📜 License & Attribution
 - Data compiled from official websites, vendor docs, GitHub, and public product pages  
 - Structured and standardized by **Tarek Masryo**  
-- Licensed under **CC BY 4.0 (Attribution)** → Free for research, education, and commercial use with attribution  
+- Licensed under **CC BY 4.0 (Attribution)** → Free for research, education, and commercial use with attribution
+ 
+---
+
+ ## Related Repositories
+- 🔍 [Generative AI Tools EDA & Baseline](https://github.com/tarekmasryo/genai-tools-baseline)
+
