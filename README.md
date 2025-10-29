@@ -1,9 +1,7 @@
 # 🧠 Generative AI Tools & Platforms 2025
 
-**Author:** [Tarek Masryo](https://github.com/tarekmasryo) · [Kaggle](https://www.kaggle.com/tarekmasryo)  
+**Author:** [Tarek Masryo](https://github.com/tarekmasryo) · [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/generative-ai-tools-and-platforms-2025)  
 
-**License:**  
-• Dataset compiled from public sources (official websites, vendor docs, GitHub repos, product listings) — **CC BY 4.0 (Attribution)**  
 
 ---
 
@@ -89,12 +87,6 @@ print("API availability:", round(api_rate, 2))
 - Capability clustering (e.g., multimodal vs single-modality)  
 - Training ML models for tool recommendation systems  
 
----
-
-## 📜 License & Attribution
-- Data compiled from official websites, vendor docs, GitHub, and public product pages  
-- Structured and standardized by **Tarek Masryo**  
-- Licensed under **CC BY 4.0 (Attribution)** → Free for research, education, and commercial use with attribution
  
 ---
 
